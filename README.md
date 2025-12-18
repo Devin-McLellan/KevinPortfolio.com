@@ -2,6 +2,8 @@
 
 # Portfolio — IT Engineer Student
 
+## Link to website: https://devin-mclellan.github.io/KevinPortfolio.com/
+
 A clean, professional one-page portfolio built entirely with pure HTML and CSS — no frameworks, no dependencies.  
 The goal is a fast and elegant presence showcasing my background in **networking (Cisco CCNA)**, **programming (Python/C#)**, and **mathematics & statistics**.
 

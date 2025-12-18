@@ -1,6 +1,6 @@
 
 
-# Portfolio — IT Engineer Student
+# Portfolio - Kevin Duncan McLellan - IT Engineer Student
 
 ## Link to website: https://devin-mclellan.github.io/KevinPortfolio.com/
 

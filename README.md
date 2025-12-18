@@ -1,29 +1,52 @@
-# Kevin McLellan – Data Engineer Portfolio
 
-This repository contains my personal portfolio website, hosted on **GitHub Pages**.  
-Live site → [KevinPortfolio.com](https://devin-mclellan.github.io/KevinPortfolio.com/)
 
-## Overview
+# Portfolio — IT Engineer Student
+
 A clean, professional one-page portfolio built entirely with pure HTML and CSS — no frameworks, no dependencies.  
-The goal: a fast and elegant presence showcasing my background in **data engineering**, **Python development**, and **networking**.
+The goal is a fast and elegant presence showcasing my background in **networking (Cisco CCNA)**, **programming (Python/C#)**, and **mathematics & statistics**.
 
-## Contents
+---
+
+## Repository Contents
 - `index.html` – main webpage  
+- `style.css` – styling (pure CSS)  
 - `profile.jpg` – optional profile image (auto-hidden if missing)  
 - `.nojekyll` – disables Jekyll for raw HTML deployment  
-- `README.md` – this file
+- `README.md` – project documentation  
+
+---
 
 ## About Me
-I’m an IT engineer focused on data engineering, analytics, and automation.  
-I combine hands-on experience in **networking (CCNA)**, **Python/SQL**, and **statistics** to create efficient, maintainable solutions.  
-Currently studying **Computer Science (B.Sc.)** at the **University of Borås**.
+I am an IT engineering student pursuing a **Bachelor’s degree in Computer Science** at the **University of Borås**.  
+My studies focus on computer science fundamentals, networking, and applied mathematics.
 
-## Skills
-- **Languages:** Python, SQL, Bash  
-- **Data:** Pandas, NumPy, dbt, ETL/ELT pipelines  
-- **Cloud & DevOps:** GitHub Actions, Docker, Linux, Azure/AWS (fundamentals)  
-- **Networking:** VLANs, OSPF, STP, NAT, DHCP
+Alongside my academic work, I have professional experience at **Kjell & Company**, including responsibilities as a **Store Manager (Butikschef)**.  
+This role strengthened my leadership, problem-solving, and decision-making skills in real-world environments.
+
+I enjoy building structured, reliable solutions through automation, clean code, and well-documented systems.
+
+---
+
+## Focus Areas
+- **Networking (Cisco CCNA):** VLANs, OSPF, STP, NAT/PAT, ACLs, DHCP, network troubleshooting  
+- **Programming:** Python (automation and scripting), C# (application fundamentals), SQL  
+- **Mathematics & Statistics:** probability theory, distributions, discrete mathematics  
+- **Systems & Tools:** Linux fundamentals, Bash, Git/GitHub workflows  
+
+---
+
+## Technical Skills
+- **Languages:** Python, C#, SQL, Bash  
+- **Networking:** VLAN, trunking, inter-VLAN routing, OSPF, STP, NAT/PAT, ACL, DHCP, DNS fundamentals  
+- **Tools:** Git, GitHub, VS Code, Linux, Docker (basic usage)
+
+---
 
 ## Contact
-📧 **duncan.mclellan96@gmail.com**  
-📞 **+46 793 405 043**
+- **Email:** duncan.mclellan96@gmail.com  
+- **Phone:** +46 793 405 043
+
+
+
+
+
